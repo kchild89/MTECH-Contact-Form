@@ -1,0 +1,16 @@
+Project    
+
+Below is an image of a page you are to replicate. Push your code up to github and turn in the link to your repository.
+
+Tip: Mess around with width in your CSS. Also if you want to curve the corners of a border use border-radius. Use google on how to use these properties
+
+Requirements:
+
+Must import your own font
+Use the form tag
+Have inputs and labels
+Those inputs and labels should be connected through 'id' and 'for' attributes
+CSS best practices
+Page looks the same as the example below
+
+
